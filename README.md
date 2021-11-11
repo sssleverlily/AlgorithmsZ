@@ -1,0 +1,2 @@
+# AlgorithmsZ
+Daily algorithm record
